@@ -2,7 +2,19 @@
 
 ### A CS student at Sichuan University
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EdwardXiao-bit&label=Profile%20views&color=0e75b6&style=flat&v=2" alt="EdwardXiao-bit" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=EdwardXiao-bit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  
+  <img src="https://img.shields.io/github/stars/EdwardXiao-bit?style=flat&label=Stars&logo=github&labelColor=555&color=f1c40f" alt="Stars" />
+  
+  <img src="https://img.shields.io/github/followers/EdwardXiao-bit?style=flat&label=Followers&logo=github&labelColor=555&color=2ecc71" alt="Followers" />
+  
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/EdwardXiao-bit&query=$.following&label=Following&style=flat&logo=github&labelColor=555&color=9b59b6" alt="Following" />
+</p>
+
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdwardXiao-bit&theme=github" alt="Profile Details" />
+</p>
 
 - 🔭 I'm currently working on **small vibe-coding projects for several courses**
 
