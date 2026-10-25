@@ -2,7 +2,7 @@
 
 ### A CS student at Sichuan University
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EdwardXiao-bit&label=Profile views&color=0e75b6&style=flat" alt="EdwardXiao-bit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EdwardXiao-bit&label=Profile%20views&color=0e75b6&style=flat&v=2" alt="EdwardXiao-bit" /> </p>
 
 - 🔭 I'm currently working on **small vibe-coding projects for several courses**
 
