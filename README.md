@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdwardXiao-bit&theme=github" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdwardXiao-bit&theme=github&name=Minghao%20Xiao" />
 </p>
 
 - 🔭 I'm currently working on **small vibe-coding projects for several courses**
