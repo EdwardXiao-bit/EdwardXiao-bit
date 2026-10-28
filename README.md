@@ -3,7 +3,7 @@
 ### A CS student at Sichuan University
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=EdwardXiao-bit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  
 
   <img src="https://hit.yhype.me/github/profile?user_id=155245601&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   
