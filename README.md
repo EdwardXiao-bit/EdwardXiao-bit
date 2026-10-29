@@ -16,6 +16,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdwardXiao-bit&theme=github&name=Minghao%20Xiao" />
 </p>
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=edwardxiao-bit)](https://github.com/stats-organization/github-stats-extended)
+
 - 🔭 I'm currently working on **small vibe-coding projects for several courses**
 
 - 🌱 I'm currently learning **software engineering**
